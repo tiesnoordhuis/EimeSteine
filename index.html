@@ -15,30 +15,47 @@
     <![endif]-->
   </head>
   <body>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      <div class="col-10 mx-auto">
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Link</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="container-fluid invisible hidden-nav-offset">
+    </div>
+
     <div class="container-fluid">
-      <div class="row">
-        <div class="col" style="background-color:blue">
-          1,1
+      <div class="row bg-secondary pt-3" style="height:1200px">
+        <div class="col-1">
+        </div>
+        <div class="col-10 col-md-5">
+          <img src="galerij/fotos/P8302464.JPG" class="img-fluid rounded mx-auto d-block">
+        </div>
+        <div class="col-10 col-md-5">
+          <img src="galerij/fotos/huis2.png" class="img-fluid rounded mx-auto d-block">
         </div>
       </div>
-      <div class="row">
-        <div class="col-3">
-          2,1
-        </div>
-        <div class="col-6" style="background-color:red">
-          2,2
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-3">
-          3,1
-        </div>
-        <div class="col-6">
-          3,2
-        </div>
-        <div class="col-3" style="background-color:yellow">
-          3,3
-        </div>
+    </div>
+    <div class="row no-gutters">
+      <div class="col">
+        <img src="galerij/headerImg.jpg" class="img-fluid no-gutters" alt="header image"></img>
       </div>
     </div>
     <!-- Bootstrap core JavaScript
