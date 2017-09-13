@@ -6,6 +6,11 @@
   border: 0px;
   padding: 0px;
   border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+.modalImgButton:focus, .modalImgButton:hover {
+  box-shadow: 0 7px 10px 0 rgba(0,0,0,0.24), 0 14px 25px 0 rgba(0,0,0,0.19);
 }
 
 .display-5 {
@@ -22,4 +27,9 @@
 
 .modalClose:focus, .modalClose:hover {
   color: gray;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  opacity: 0.7;
 }
