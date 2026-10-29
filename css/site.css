@@ -1021,10 +1021,20 @@ hr {
   background: rgb(10 15 11 / 0.55);
   color: var(--snow);
   cursor: pointer;
-  font-size: 1.2rem;
-  line-height: 1;
   place-items: center;
   backdrop-filter: blur(8px);
+}
+
+.lb-close svg,
+.lb-prev svg,
+.lb-next svg {
+  width: 1.15rem;
+  height: 1.15rem;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 
 .lb-close {
