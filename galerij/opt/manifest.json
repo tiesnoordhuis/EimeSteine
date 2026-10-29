@@ -33,6 +33,44 @@
       ]
     },
     {
+      "slug": "chalet-zomer-lucht",
+      "source": "galerij/fotos/chalet-zomer-lucht.jpg",
+      "width": 1600,
+      "height": 1432,
+      "alt": "Het chalet met tuin en lariksen vanuit de lucht",
+      "caption": "Het chalet van boven",
+      "album": "zomer",
+      "colour": "#262823",
+      "thumbs": [
+        {
+          "width": 400,
+          "height": 300,
+          "jpg": "galerij/opt/chalet-zomer-lucht-thumb-400.jpg",
+          "webp": "galerij/opt/chalet-zomer-lucht-thumb-400.webp"
+        },
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/chalet-zomer-lucht-thumb-800.jpg",
+          "webp": "galerij/opt/chalet-zomer-lucht-thumb-800.webp"
+        }
+      ],
+      "full": [
+        {
+          "width": 800,
+          "height": 716,
+          "jpg": "galerij/opt/chalet-zomer-lucht-800.jpg",
+          "webp": "galerij/opt/chalet-zomer-lucht-800.webp"
+        },
+        {
+          "width": 1200,
+          "height": 1074,
+          "jpg": "galerij/opt/chalet-zomer-lucht-1200.jpg",
+          "webp": "galerij/opt/chalet-zomer-lucht-1200.webp"
+        }
+      ]
+    },
+    {
       "slug": "huis2",
       "source": "galerij/fotos/huis2.png",
       "width": 800,
@@ -253,6 +291,76 @@
           "height": 600,
           "jpg": "galerij/opt/balkon-800.jpg",
           "webp": "galerij/opt/balkon-800.webp"
+        }
+      ]
+    },
+    {
+      "slug": "balkon-ontbijt",
+      "source": "galerij/fotos/balkon-ontbijt.jpg",
+      "width": 500,
+      "height": 375,
+      "alt": "Gedekte tafel met bloemen op het balkon en uitzicht op de bergen",
+      "caption": "Ontbijt op het balkon",
+      "album": "zomer",
+      "colour": "#232625",
+      "thumbs": [
+        {
+          "width": 400,
+          "height": 300,
+          "jpg": "galerij/opt/balkon-ontbijt-thumb-400.jpg",
+          "webp": "galerij/opt/balkon-ontbijt-thumb-400.webp"
+        },
+        {
+          "width": 500,
+          "height": 375,
+          "jpg": "galerij/opt/balkon-ontbijt-thumb-500.jpg",
+          "webp": "galerij/opt/balkon-ontbijt-thumb-500.webp"
+        }
+      ],
+      "full": [
+        {
+          "width": 500,
+          "height": 375,
+          "jpg": "galerij/opt/balkon-ontbijt-500.jpg",
+          "webp": "galerij/opt/balkon-ontbijt-500.webp"
+        }
+      ]
+    },
+    {
+      "slug": "chalet-winter-lucht",
+      "source": "galerij/fotos/chalet-winter-lucht.jpg",
+      "width": 1600,
+      "height": 1066,
+      "alt": "Het besneeuwde chalet tussen de lariksen vanuit de lucht",
+      "caption": "Het chalet in de sneeuw",
+      "album": "winter",
+      "colour": "#262728",
+      "thumbs": [
+        {
+          "width": 400,
+          "height": 300,
+          "jpg": "galerij/opt/chalet-winter-lucht-thumb-400.jpg",
+          "webp": "galerij/opt/chalet-winter-lucht-thumb-400.webp"
+        },
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/chalet-winter-lucht-thumb-800.jpg",
+          "webp": "galerij/opt/chalet-winter-lucht-thumb-800.webp"
+        }
+      ],
+      "full": [
+        {
+          "width": 800,
+          "height": 533,
+          "jpg": "galerij/opt/chalet-winter-lucht-800.jpg",
+          "webp": "galerij/opt/chalet-winter-lucht-800.webp"
+        },
+        {
+          "width": 1200,
+          "height": 800,
+          "jpg": "galerij/opt/chalet-winter-lucht-1200.jpg",
+          "webp": "galerij/opt/chalet-winter-lucht-1200.webp"
         }
       ]
     },
@@ -509,6 +617,290 @@
       ]
     },
     {
+      "slug": "eetkamer-lang",
+      "source": "galerij/fotos/eetkamer-lang.jpg",
+      "width": 2400,
+      "height": 1800,
+      "alt": "Lange houten eettafel met banken bij de ramen",
+      "caption": "Eetkamer bij de ramen",
+      "album": "binnen",
+      "colour": "#221f1c",
+      "thumbs": [
+        {
+          "width": 400,
+          "height": 300,
+          "jpg": "galerij/opt/eetkamer-lang-thumb-400.jpg",
+          "webp": "galerij/opt/eetkamer-lang-thumb-400.webp"
+        },
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/eetkamer-lang-thumb-800.jpg",
+          "webp": "galerij/opt/eetkamer-lang-thumb-800.webp"
+        }
+      ],
+      "full": [
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/eetkamer-lang-800.jpg",
+          "webp": "galerij/opt/eetkamer-lang-800.webp"
+        },
+        {
+          "width": 1200,
+          "height": 900,
+          "jpg": "galerij/opt/eetkamer-lang-1200.jpg",
+          "webp": "galerij/opt/eetkamer-lang-1200.webp"
+        },
+        {
+          "width": 1800,
+          "height": 1350,
+          "jpg": "galerij/opt/eetkamer-lang-1800.jpg",
+          "webp": "galerij/opt/eetkamer-lang-1800.webp"
+        }
+      ]
+    },
+    {
+      "slug": "eettafel",
+      "source": "galerij/fotos/eettafel.jpg",
+      "width": 2400,
+      "height": 1800,
+      "alt": "Ovale houten eettafel met stoelen in de woonkamer",
+      "caption": "Aan de eettafel",
+      "album": "binnen",
+      "colour": "#30291f",
+      "thumbs": [
+        {
+          "width": 400,
+          "height": 300,
+          "jpg": "galerij/opt/eettafel-thumb-400.jpg",
+          "webp": "galerij/opt/eettafel-thumb-400.webp"
+        },
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/eettafel-thumb-800.jpg",
+          "webp": "galerij/opt/eettafel-thumb-800.webp"
+        }
+      ],
+      "full": [
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/eettafel-800.jpg",
+          "webp": "galerij/opt/eettafel-800.webp"
+        },
+        {
+          "width": 1200,
+          "height": 900,
+          "jpg": "galerij/opt/eettafel-1200.jpg",
+          "webp": "galerij/opt/eettafel-1200.webp"
+        },
+        {
+          "width": 1800,
+          "height": 1350,
+          "jpg": "galerij/opt/eettafel-1800.jpg",
+          "webp": "galerij/opt/eettafel-1800.webp"
+        }
+      ]
+    },
+    {
+      "slug": "woonkamer-groot",
+      "source": "galerij/fotos/woonkamer-groot.jpg",
+      "width": 2400,
+      "height": 1800,
+      "alt": "Ruime woonkamer met banken, open haard, eettafel en houten vloer",
+      "caption": "Ruime woonkamer",
+      "album": "binnen",
+      "colour": "#292722",
+      "thumbs": [
+        {
+          "width": 400,
+          "height": 300,
+          "jpg": "galerij/opt/woonkamer-groot-thumb-400.jpg",
+          "webp": "galerij/opt/woonkamer-groot-thumb-400.webp"
+        },
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/woonkamer-groot-thumb-800.jpg",
+          "webp": "galerij/opt/woonkamer-groot-thumb-800.webp"
+        }
+      ],
+      "full": [
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/woonkamer-groot-800.jpg",
+          "webp": "galerij/opt/woonkamer-groot-800.webp"
+        },
+        {
+          "width": 1200,
+          "height": 900,
+          "jpg": "galerij/opt/woonkamer-groot-1200.jpg",
+          "webp": "galerij/opt/woonkamer-groot-1200.webp"
+        },
+        {
+          "width": 1800,
+          "height": 1350,
+          "jpg": "galerij/opt/woonkamer-groot-1800.jpg",
+          "webp": "galerij/opt/woonkamer-groot-1800.webp"
+        }
+      ]
+    },
+    {
+      "slug": "woonkamer2",
+      "source": "galerij/fotos/woonkamer2.png",
+      "width": 800,
+      "height": 600,
+      "alt": "Woonkamer met banken, open haard en houten vloer",
+      "caption": "De woonkamer",
+      "album": "binnen",
+      "colour": "#28241f",
+      "thumbs": [
+        {
+          "width": 400,
+          "height": 300,
+          "jpg": "galerij/opt/woonkamer2-thumb-400.jpg",
+          "webp": "galerij/opt/woonkamer2-thumb-400.webp"
+        },
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/woonkamer2-thumb-800.jpg",
+          "webp": "galerij/opt/woonkamer2-thumb-800.webp"
+        }
+      ],
+      "full": [
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/woonkamer2-800.jpg",
+          "webp": "galerij/opt/woonkamer2-800.webp"
+        }
+      ]
+    },
+    {
+      "slug": "woonkamer3",
+      "source": "galerij/fotos/woonkamer3.png",
+      "width": 800,
+      "height": 600,
+      "alt": "Woonkamer met open haard en uitzicht",
+      "caption": "Woonkamer met open haard",
+      "album": "binnen",
+      "colour": "#2b2520",
+      "thumbs": [
+        {
+          "width": 400,
+          "height": 300,
+          "jpg": "galerij/opt/woonkamer3-thumb-400.jpg",
+          "webp": "galerij/opt/woonkamer3-thumb-400.webp"
+        },
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/woonkamer3-thumb-800.jpg",
+          "webp": "galerij/opt/woonkamer3-thumb-800.webp"
+        }
+      ],
+      "full": [
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/woonkamer3-800.jpg",
+          "webp": "galerij/opt/woonkamer3-800.webp"
+        }
+      ]
+    },
+    {
+      "slug": "keuken",
+      "source": "galerij/fotos/keuken.jpg",
+      "width": 2400,
+      "height": 1800,
+      "alt": "Keuken met zwarte kasten, oven, inductiekookplaat en raam",
+      "caption": "De keuken",
+      "album": "binnen",
+      "colour": "#29241c",
+      "thumbs": [
+        {
+          "width": 400,
+          "height": 300,
+          "jpg": "galerij/opt/keuken-thumb-400.jpg",
+          "webp": "galerij/opt/keuken-thumb-400.webp"
+        },
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/keuken-thumb-800.jpg",
+          "webp": "galerij/opt/keuken-thumb-800.webp"
+        }
+      ],
+      "full": [
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/keuken-800.jpg",
+          "webp": "galerij/opt/keuken-800.webp"
+        },
+        {
+          "width": 1200,
+          "height": 900,
+          "jpg": "galerij/opt/keuken-1200.jpg",
+          "webp": "galerij/opt/keuken-1200.webp"
+        },
+        {
+          "width": 1800,
+          "height": 1350,
+          "jpg": "galerij/opt/keuken-1800.jpg",
+          "webp": "galerij/opt/keuken-1800.webp"
+        }
+      ]
+    },
+    {
+      "slug": "P8312533",
+      "source": "galerij/fotos/P8312533.JPG",
+      "width": 2816,
+      "height": 2112,
+      "alt": "Keuken met inductiekookplaat, oven en vaatwasser",
+      "caption": "Keuken met oven",
+      "album": "binnen",
+      "colour": "#27231f",
+      "thumbs": [
+        {
+          "width": 400,
+          "height": 300,
+          "jpg": "galerij/opt/P8312533-thumb-400.jpg",
+          "webp": "galerij/opt/P8312533-thumb-400.webp"
+        },
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/P8312533-thumb-800.jpg",
+          "webp": "galerij/opt/P8312533-thumb-800.webp"
+        }
+      ],
+      "full": [
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/P8312533-800.jpg",
+          "webp": "galerij/opt/P8312533-800.webp"
+        },
+        {
+          "width": 1200,
+          "height": 900,
+          "jpg": "galerij/opt/P8312533-1200.jpg",
+          "webp": "galerij/opt/P8312533-1200.webp"
+        },
+        {
+          "width": 1800,
+          "height": 1350,
+          "jpg": "galerij/opt/P8312533-1800.jpg",
+          "webp": "galerij/opt/P8312533-1800.webp"
+        }
+      ]
+    },
+    {
       "slug": "slaapkamerboven1",
       "source": "galerij/fotos/slaapkamerboven1.png",
       "width": 800,
@@ -569,6 +961,94 @@
           "height": 600,
           "jpg": "galerij/opt/slaapkamerboven2-800.jpg",
           "webp": "galerij/opt/slaapkamerboven2-800.webp"
+        }
+      ]
+    },
+    {
+      "slug": "slaapkamer-wit",
+      "source": "galerij/fotos/slaapkamer-wit.jpg",
+      "width": 2400,
+      "height": 1800,
+      "alt": "Slaapkamer met tweepersoonsbed met witte dekens en houten wanden",
+      "caption": "Slaapkamer met tweepersoonsbed",
+      "album": "binnen",
+      "colour": "#352712",
+      "thumbs": [
+        {
+          "width": 400,
+          "height": 300,
+          "jpg": "galerij/opt/slaapkamer-wit-thumb-400.jpg",
+          "webp": "galerij/opt/slaapkamer-wit-thumb-400.webp"
+        },
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/slaapkamer-wit-thumb-800.jpg",
+          "webp": "galerij/opt/slaapkamer-wit-thumb-800.webp"
+        }
+      ],
+      "full": [
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/slaapkamer-wit-800.jpg",
+          "webp": "galerij/opt/slaapkamer-wit-800.webp"
+        },
+        {
+          "width": 1200,
+          "height": 900,
+          "jpg": "galerij/opt/slaapkamer-wit-1200.jpg",
+          "webp": "galerij/opt/slaapkamer-wit-1200.webp"
+        },
+        {
+          "width": 1800,
+          "height": 1350,
+          "jpg": "galerij/opt/slaapkamer-wit-1800.jpg",
+          "webp": "galerij/opt/slaapkamer-wit-1800.webp"
+        }
+      ]
+    },
+    {
+      "slug": "slaapkamer-uitzicht",
+      "source": "galerij/fotos/slaapkamer-uitzicht.jpg",
+      "width": 2400,
+      "height": 1800,
+      "alt": "Slaapkamer met tweepersoonsbed en raam met uitzicht",
+      "caption": "Slaapkamer met uitzicht",
+      "album": "binnen",
+      "colour": "#312517",
+      "thumbs": [
+        {
+          "width": 400,
+          "height": 300,
+          "jpg": "galerij/opt/slaapkamer-uitzicht-thumb-400.jpg",
+          "webp": "galerij/opt/slaapkamer-uitzicht-thumb-400.webp"
+        },
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/slaapkamer-uitzicht-thumb-800.jpg",
+          "webp": "galerij/opt/slaapkamer-uitzicht-thumb-800.webp"
+        }
+      ],
+      "full": [
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/slaapkamer-uitzicht-800.jpg",
+          "webp": "galerij/opt/slaapkamer-uitzicht-800.webp"
+        },
+        {
+          "width": 1200,
+          "height": 900,
+          "jpg": "galerij/opt/slaapkamer-uitzicht-1200.jpg",
+          "webp": "galerij/opt/slaapkamer-uitzicht-1200.webp"
+        },
+        {
+          "width": 1800,
+          "height": 1350,
+          "jpg": "galerij/opt/slaapkamer-uitzicht-1800.jpg",
+          "webp": "galerij/opt/slaapkamer-uitzicht-1800.webp"
         }
       ]
     },
@@ -637,6 +1117,94 @@
       ]
     },
     {
+      "slug": "slaapkamer-kap",
+      "source": "galerij/fotos/slaapkamer-kap.jpg",
+      "width": 2400,
+      "height": 1800,
+      "alt": "Slaapkamer onder de houten kap met twee eenpersoonsbedden",
+      "caption": "Slaapkamer onder de kap",
+      "album": "binnen",
+      "colour": "#352615",
+      "thumbs": [
+        {
+          "width": 400,
+          "height": 300,
+          "jpg": "galerij/opt/slaapkamer-kap-thumb-400.jpg",
+          "webp": "galerij/opt/slaapkamer-kap-thumb-400.webp"
+        },
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/slaapkamer-kap-thumb-800.jpg",
+          "webp": "galerij/opt/slaapkamer-kap-thumb-800.webp"
+        }
+      ],
+      "full": [
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/slaapkamer-kap-800.jpg",
+          "webp": "galerij/opt/slaapkamer-kap-800.webp"
+        },
+        {
+          "width": 1200,
+          "height": 900,
+          "jpg": "galerij/opt/slaapkamer-kap-1200.jpg",
+          "webp": "galerij/opt/slaapkamer-kap-1200.webp"
+        },
+        {
+          "width": 1800,
+          "height": 1350,
+          "jpg": "galerij/opt/slaapkamer-kap-1800.jpg",
+          "webp": "galerij/opt/slaapkamer-kap-1800.webp"
+        }
+      ]
+    },
+    {
+      "slug": "slaapkamer-twee",
+      "source": "galerij/fotos/slaapkamer-twee.jpg",
+      "width": 2400,
+      "height": 1800,
+      "alt": "Slaapkamer met twee eenpersoonsbedden en uitzicht op de bomen",
+      "caption": "Slaapkamer met twee bedden",
+      "album": "binnen",
+      "colour": "#322517",
+      "thumbs": [
+        {
+          "width": 400,
+          "height": 300,
+          "jpg": "galerij/opt/slaapkamer-twee-thumb-400.jpg",
+          "webp": "galerij/opt/slaapkamer-twee-thumb-400.webp"
+        },
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/slaapkamer-twee-thumb-800.jpg",
+          "webp": "galerij/opt/slaapkamer-twee-thumb-800.webp"
+        }
+      ],
+      "full": [
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/slaapkamer-twee-800.jpg",
+          "webp": "galerij/opt/slaapkamer-twee-800.webp"
+        },
+        {
+          "width": 1200,
+          "height": 900,
+          "jpg": "galerij/opt/slaapkamer-twee-1200.jpg",
+          "webp": "galerij/opt/slaapkamer-twee-1200.webp"
+        },
+        {
+          "width": 1800,
+          "height": 1350,
+          "jpg": "galerij/opt/slaapkamer-twee-1800.jpg",
+          "webp": "galerij/opt/slaapkamer-twee-1800.webp"
+        }
+      ]
+    },
+    {
       "slug": "stapelbed",
       "source": "galerij/fotos/stapelbed.png",
       "width": 600,
@@ -669,110 +1237,178 @@
       ]
     },
     {
-      "slug": "P8312533",
-      "source": "galerij/fotos/P8312533.JPG",
-      "width": 2816,
-      "height": 2112,
-      "alt": "Keuken met inductiekookplaat, oven en vaatwasser",
-      "caption": "De keuken",
+      "slug": "slaapkamer-stapelbed",
+      "source": "galerij/fotos/slaapkamer-stapelbed.jpg",
+      "width": 2400,
+      "height": 1800,
+      "alt": "Slaapkamer met stapelbed, bureau en houten lambrisering",
+      "caption": "Kamer met stapelbed",
       "album": "binnen",
-      "colour": "#27231f",
+      "colour": "#372914",
       "thumbs": [
         {
           "width": 400,
           "height": 300,
-          "jpg": "galerij/opt/P8312533-thumb-400.jpg",
-          "webp": "galerij/opt/P8312533-thumb-400.webp"
+          "jpg": "galerij/opt/slaapkamer-stapelbed-thumb-400.jpg",
+          "webp": "galerij/opt/slaapkamer-stapelbed-thumb-400.webp"
         },
         {
           "width": 800,
           "height": 600,
-          "jpg": "galerij/opt/P8312533-thumb-800.jpg",
-          "webp": "galerij/opt/P8312533-thumb-800.webp"
+          "jpg": "galerij/opt/slaapkamer-stapelbed-thumb-800.jpg",
+          "webp": "galerij/opt/slaapkamer-stapelbed-thumb-800.webp"
         }
       ],
       "full": [
         {
           "width": 800,
           "height": 600,
-          "jpg": "galerij/opt/P8312533-800.jpg",
-          "webp": "galerij/opt/P8312533-800.webp"
+          "jpg": "galerij/opt/slaapkamer-stapelbed-800.jpg",
+          "webp": "galerij/opt/slaapkamer-stapelbed-800.webp"
         },
         {
           "width": 1200,
           "height": 900,
-          "jpg": "galerij/opt/P8312533-1200.jpg",
-          "webp": "galerij/opt/P8312533-1200.webp"
+          "jpg": "galerij/opt/slaapkamer-stapelbed-1200.jpg",
+          "webp": "galerij/opt/slaapkamer-stapelbed-1200.webp"
         },
         {
           "width": 1800,
           "height": 1350,
-          "jpg": "galerij/opt/P8312533-1800.jpg",
-          "webp": "galerij/opt/P8312533-1800.webp"
+          "jpg": "galerij/opt/slaapkamer-stapelbed-1800.jpg",
+          "webp": "galerij/opt/slaapkamer-stapelbed-1800.webp"
         }
       ]
     },
     {
-      "slug": "woonkamer2",
-      "source": "galerij/fotos/woonkamer2.png",
-      "width": 800,
-      "height": 600,
-      "alt": "Woonkamer met banken, open haard en houten vloer",
-      "caption": "De woonkamer",
+      "slug": "badkamer-toilet",
+      "source": "galerij/fotos/badkamer-toilet.jpg",
+      "width": 2400,
+      "height": 1800,
+      "alt": "Kleine badkamer met toilet, wastafel en houten wanden",
+      "caption": "Toilet en wastafel",
       "album": "binnen",
-      "colour": "#28241f",
+      "colour": "#3a2915",
       "thumbs": [
         {
           "width": 400,
           "height": 300,
-          "jpg": "galerij/opt/woonkamer2-thumb-400.jpg",
-          "webp": "galerij/opt/woonkamer2-thumb-400.webp"
+          "jpg": "galerij/opt/badkamer-toilet-thumb-400.jpg",
+          "webp": "galerij/opt/badkamer-toilet-thumb-400.webp"
         },
         {
           "width": 800,
           "height": 600,
-          "jpg": "galerij/opt/woonkamer2-thumb-800.jpg",
-          "webp": "galerij/opt/woonkamer2-thumb-800.webp"
+          "jpg": "galerij/opt/badkamer-toilet-thumb-800.jpg",
+          "webp": "galerij/opt/badkamer-toilet-thumb-800.webp"
         }
       ],
       "full": [
         {
           "width": 800,
           "height": 600,
-          "jpg": "galerij/opt/woonkamer2-800.jpg",
-          "webp": "galerij/opt/woonkamer2-800.webp"
+          "jpg": "galerij/opt/badkamer-toilet-800.jpg",
+          "webp": "galerij/opt/badkamer-toilet-800.webp"
+        },
+        {
+          "width": 1200,
+          "height": 900,
+          "jpg": "galerij/opt/badkamer-toilet-1200.jpg",
+          "webp": "galerij/opt/badkamer-toilet-1200.webp"
+        },
+        {
+          "width": 1800,
+          "height": 1350,
+          "jpg": "galerij/opt/badkamer-toilet-1800.jpg",
+          "webp": "galerij/opt/badkamer-toilet-1800.webp"
         }
       ]
     },
     {
-      "slug": "woonkamer3",
-      "source": "galerij/fotos/woonkamer3.png",
-      "width": 800,
-      "height": 600,
-      "alt": "Woonkamer met open haard en uitzicht",
-      "caption": "Woonkamer met open haard",
+      "slug": "badkamer-bad",
+      "source": "galerij/fotos/badkamer-bad.jpg",
+      "width": 2400,
+      "height": 1800,
+      "alt": "Badkamer met ligbad, douche, wastafel en zwarte tegels",
+      "caption": "De badkamer",
       "album": "binnen",
-      "colour": "#2b2520",
+      "colour": "#2d2518",
       "thumbs": [
         {
           "width": 400,
           "height": 300,
-          "jpg": "galerij/opt/woonkamer3-thumb-400.jpg",
-          "webp": "galerij/opt/woonkamer3-thumb-400.webp"
+          "jpg": "galerij/opt/badkamer-bad-thumb-400.jpg",
+          "webp": "galerij/opt/badkamer-bad-thumb-400.webp"
         },
         {
           "width": 800,
           "height": 600,
-          "jpg": "galerij/opt/woonkamer3-thumb-800.jpg",
-          "webp": "galerij/opt/woonkamer3-thumb-800.webp"
+          "jpg": "galerij/opt/badkamer-bad-thumb-800.jpg",
+          "webp": "galerij/opt/badkamer-bad-thumb-800.webp"
         }
       ],
       "full": [
         {
           "width": 800,
           "height": 600,
-          "jpg": "galerij/opt/woonkamer3-800.jpg",
-          "webp": "galerij/opt/woonkamer3-800.webp"
+          "jpg": "galerij/opt/badkamer-bad-800.jpg",
+          "webp": "galerij/opt/badkamer-bad-800.webp"
+        },
+        {
+          "width": 1200,
+          "height": 900,
+          "jpg": "galerij/opt/badkamer-bad-1200.jpg",
+          "webp": "galerij/opt/badkamer-bad-1200.webp"
+        },
+        {
+          "width": 1800,
+          "height": 1350,
+          "jpg": "galerij/opt/badkamer-bad-1800.jpg",
+          "webp": "galerij/opt/badkamer-bad-1800.webp"
+        }
+      ]
+    },
+    {
+      "slug": "badkamer-douche",
+      "source": "galerij/fotos/badkamer-douche.jpg",
+      "width": 2400,
+      "height": 1800,
+      "alt": "Badkamer met inloopdouche, toilet en wastafel",
+      "caption": "Douche en toilet",
+      "album": "binnen",
+      "colour": "#2f2820",
+      "thumbs": [
+        {
+          "width": 400,
+          "height": 300,
+          "jpg": "galerij/opt/badkamer-douche-thumb-400.jpg",
+          "webp": "galerij/opt/badkamer-douche-thumb-400.webp"
+        },
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/badkamer-douche-thumb-800.jpg",
+          "webp": "galerij/opt/badkamer-douche-thumb-800.webp"
+        }
+      ],
+      "full": [
+        {
+          "width": 800,
+          "height": 600,
+          "jpg": "galerij/opt/badkamer-douche-800.jpg",
+          "webp": "galerij/opt/badkamer-douche-800.webp"
+        },
+        {
+          "width": 1200,
+          "height": 900,
+          "jpg": "galerij/opt/badkamer-douche-1200.jpg",
+          "webp": "galerij/opt/badkamer-douche-1200.webp"
+        },
+        {
+          "width": 1800,
+          "height": 1350,
+          "jpg": "galerij/opt/badkamer-douche-1800.jpg",
+          "webp": "galerij/opt/badkamer-douche-1800.webp"
         }
       ]
     }
