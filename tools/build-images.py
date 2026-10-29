@@ -80,6 +80,10 @@ ALBUMS = [
     ("binnen", "Binnen"),
 ]
 
+# This photo is only 500 px wide, which is too soft for the lightbox. It is
+# used as the card image on the home page instead of appearing in the gallery.
+NOT_IN_GALLERY = {"balkon-ontbijt"}
+
 THUMB_WIDTHS = (400, 800)
 FULL_WIDTHS = (800, 1200, 1800)
 JPEG_ARGS = ["-interlace", "Plane", "-sampling-factor", "4:2:0", "-quality", "80"]
@@ -287,7 +291,7 @@ def gallery_fragment(photos: list[dict]) -> str:
     sizes = "(min-width: 1100px) 220px, (min-width: 700px) 30vw, 45vw"
     chunks = []
     for album, title in ALBUMS:
-        items = [p for p in photos if p["album"] == album]
+        items = [p for p in photos if p["album"] == album and p["slug"] not in NOT_IN_GALLERY]
         figures = []
         for photo in items:
             thumbs = photo["thumbs"]
